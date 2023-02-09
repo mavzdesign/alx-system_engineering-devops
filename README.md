@@ -1,1 +1,1 @@
-this describe the scripts
+This is the main read me file
